@@ -28,7 +28,11 @@ const Hero = () => {
               View Properties
               <ArrowRight className="ml-2 h-5 w-5" />
             </Button>
-            <Button size="lg" variant="outline" className="border-blue-400 text-white hover:bg-blue-500/20">
+            <Button 
+              size="lg" 
+              variant="outline" 
+              className="border-white text-white hover:bg-blue-500/20 border-2"
+            >
               Learn More
             </Button>
           </div>
