@@ -77,7 +77,8 @@ const Footer = () => {
           </div>
         </div>
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>© 2024 EstateElite. All rights reserved.</p>
+          <p className="mb-2">© 2024 EstateElite. All rights reserved.</p>
+          <p className="text-sm">Developed by Pinnasi Siva Kumar</p>
         </div>
       </div>
     </footer>
